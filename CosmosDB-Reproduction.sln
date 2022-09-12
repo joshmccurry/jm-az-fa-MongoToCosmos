@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDB-Reproduction", "CosmosDB-Reproduction\CosmosDB-Reproduction.csproj", "{16F991CB-8F1A-448D-BEA3-5DC874C336EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F991CB-8F1A-448D-BEA3-5DC874C336EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F991CB-8F1A-448D-BEA3-5DC874C336EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F991CB-8F1A-448D-BEA3-5DC874C336EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F991CB-8F1A-448D-BEA3-5DC874C336EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E42240-9BD1-4DBB-94AD-9CE11AD2FCC0}
+	EndGlobalSection
+EndGlobal
